@@ -2,7 +2,7 @@
 - 👀 I’m interested in cool things
 - 🌱 I’m currently learning vue.js
 - 💞️ I’m looking to collaborate on open source, linux kernel
-- 📫 How to reach me: here!
+- 📫 How to reach me: you don't reach me. I will find you and reach you ;)
 
 <!---
 awmrozek/awmrozek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
