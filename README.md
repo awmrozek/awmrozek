@@ -6,9 +6,9 @@
  \__,_| \_/\_/ |_| |_| |_|_|  \___/___\___|_|\_\
  
 - 👋 Hi, I’m @awmrozek
-- 👀 I’m interested in software and embedded things
-- 🌱 I’m currently doing code golf
-- 💞️ I’m looking to collaborate on open source, linux kernel
+- 👀 I’m interested in software, hardware, recently machine learning
+- 🌱 I’m currently doing code golf and machine learning. Please have a look at the paintings created by the virtual painter.
+- 💞️ I’m looking to collaborate on algorihtms, Python, code golf and Linux development.
 - 📫 How to reach me: email me or send me a postcard!
 
 <!---
