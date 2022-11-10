@@ -9,7 +9,7 @@
 - 👀 I’m interested in software, hardware, recently machine learning
 - 🌱 I’m currently doing code golf and machine learning. Please have a look at the paintings created by the virtual painter.
 - 💞️ I’m looking to collaborate on algorihtms, Python, code golf and Linux development.
-- 📫 How to reach me: email me or send me a postcard!
+- 📫 How to reach me: make a pull request!
 
 <!---
 awmrozek/awmrozek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
